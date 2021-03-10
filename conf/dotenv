@@ -1,0 +1,4 @@
+export BIND_ADDRESS=0.0.0.0:8086
+export REDIS_URL=redis://127.0.0.1
+export SRS_WEB=https://srs.s.0x7b2.net/live
+export SRS_RTMP=rtmp://srs.s.0x7b2.net/live
